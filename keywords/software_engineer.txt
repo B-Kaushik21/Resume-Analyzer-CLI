@@ -1,0 +1,22 @@
+Java
+C++
+Python
+C
+C#
+JavaScript
+OOP
+DSA
+System Design
+REST API
+Git
+GitHub
+Agile
+Scrum
+Unit Testing
+Debugging
+SDLC
+Design Patterns
+PostgreSQL
+MySQL
+MongoDB
+Linux

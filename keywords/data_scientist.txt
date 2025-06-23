@@ -1,0 +1,30 @@
+Python
+R
+SQL
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Seaborn
+TensorFlow
+Keras
+PyTorch
+Jupyter Notebook
+Data Cleaning
+Data Visualization
+Machine Learning
+Deep Learning
+NLP
+Computer Vision
+HuggingFace
+EDA
+Feature Engineering
+Model Deployment
+Streamlit
+Dash
+Statistics
+Data Analysis
+A/B Testing
+Excel
+Tableau
+Power BI

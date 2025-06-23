@@ -1,0 +1,23 @@
+HTML
+CSS
+JavaScript
+TypeScript
+React
+Angular
+Vue
+Bootstrap
+Tailwind CSS
+Node.js
+Express.js
+MongoDB
+Firebase
+REST API
+Git
+GitHub
+Responsive Design
+Figma
+Postman
+Debugging
+Unit Testing
+Webpack
+Vite
